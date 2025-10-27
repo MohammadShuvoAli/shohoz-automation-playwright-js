@@ -1,0 +1,17 @@
+{
+  "name": "shohoz-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation framework for Shohoz",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}
+
